@@ -6,3 +6,7 @@
 my_var = "Hello, world!"
 ```
 
+## TO DO:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
